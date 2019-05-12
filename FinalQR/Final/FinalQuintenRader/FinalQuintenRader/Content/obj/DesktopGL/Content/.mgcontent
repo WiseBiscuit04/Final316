@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/quint/Desktop/FinalQR1.5/FinalQR1.5/FinalQR/Final/FinalQuintenRader/FinalQuintenRader/Content/Cube.fbx</File>
+    <File>C:/Users/quint/Desktop/FinalQR1.5/FinalQR1.5/FinalQR/Final/FinalQuintenRader/FinalQuintenRader/Content/Sphere.fbx</File>
+    <File>C:/Users/quint/Desktop/FinalQR1.5/FinalQR1.5/FinalQR/Final/FinalQuintenRader/FinalQuintenRader/Content/Plane.fbx</File>
+    <File>C:/Users/quint/Desktop/FinalQR1.5/FinalQR1.5/FinalQR/Final/FinalQuintenRader/FinalQuintenRader/Content/textfont.spritefont</File>
+    <File>C:/Users/quint/Desktop/FinalQR1.5/FinalQR1.5/FinalQR/Final/FinalQuintenRader/FinalQuintenRader/Content/wall.fbx</File>
+    <File>C:/Users/quint/Desktop/FinalQR1.5/FinalQR1.5/FinalQR/Final/FinalQuintenRader/FinalQuintenRader/Content/wallturnt.fbx</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
